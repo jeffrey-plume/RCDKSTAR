@@ -10,7 +10,7 @@ structural-activity relationship modeling suite.
 ## Installation
 
 ``` r
-runGitHub( "RCDKSTAR", "jeffrey-plume")
+shiny::runGitHub( "RCDKSTAR", "jeffrey-plume")
 ```
 
 ## Modeling with RCDKSTAR
